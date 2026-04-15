@@ -14,27 +14,37 @@ These projects reflect my two main directions: **neural decoding research** and 
 
 ### Research
 
-- [speech-decoding](https://github.com/Galaxy-Dawn/speech-decoding)  
-  A research codebase for **brain-to-text decoding across both speech production and perception**.  
-  Unlike many speech-decoding repos that focus on a single setting or a single model, this project organizes the **full workflow** from neural data preprocessing and channel analysis to decoder training, LLM-based reconstruction, and post-hoc analysis within one reproducible pipeline.
+#### [speech-decoding](https://github.com/Galaxy-Dawn/speech-decoding)
 
-- [NeuroSketch](https://github.com/Galaxy-Dawn/NeuroSketch)  
-  An effective framework for **neural decoding via systematic architectural optimization**.  
-  Rather than proposing a model through isolated design choices, NeuroSketch is built from a **large-scale empirical study** spanning 5,000+ experiments across modalities, signal types, and decoding tasks, with the goal of identifying which architectural choices consistently matter for neural decoding.
+[Paper](https://arxiv.org/abs/2603.12628) · [Repo](https://github.com/Galaxy-Dawn/speech-decoding) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/speech-decoding?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/speech-decoding?style=flat-square)
+
+Unified **brain-to-text decoding across both speech production and perception**, with one reproducible workflow spanning preprocessing, channel analysis, decoder training, LLM-based reconstruction, and post-hoc analysis.
+
+#### [NeuroSketch](https://github.com/Galaxy-Dawn/NeuroSketch)
+
+[Paper](https://arxiv.org/abs/2512.09524) · [Repo](https://github.com/Galaxy-Dawn/NeuroSketch) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/NeuroSketch?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/NeuroSketch?style=flat-square)
+
+A neural decoding framework built through **systematic architectural optimization**, backed by **5,000+ experiments** across modalities, signal types, and decoding tasks rather than isolated architecture tweaks.
 
 ### Tooling
 
-- [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)  
-  A **semi-automated research assistant** for literature review, coding, experiments, reporting, writing, and project knowledge management.  
-  Its key difference from generic coding assistants or “autonomous scientist” systems is that it keeps **human decision-making at the center**, while providing a structured workflow across the research lifecycle and supporting multiple agent environments including Claude Code, Codex CLI, and OpenCode.
+#### [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)
 
-- [pubfig](https://github.com/Galaxy-Dawn/pubfig)  
-  A Python library for **publication-style scientific figures** with paper-ready defaults, clean export, and panel-first Figma assembly.  
-  Unlike general plotting libraries that stop at figure generation, pubfig is designed around the **last mile of paper figures**: consistent aesthetics, journal-aware export, and a workflow for assembling multi-panel figures without redrawing them manually.
+[Repo](https://github.com/Galaxy-Dawn/claude-scholar) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/claude-scholar?style=flat-square)
 
-- [pubtab](https://github.com/Galaxy-Dawn/pubtab)  
-  A tool for **bidirectional Excel↔LaTeX table conversion** with stable roundtrip behavior, style preservation, and preview support.  
-  Its main focus is not only exporting tables, but making table editing and publishing more reliable in real research workflows, especially when users need to move repeatedly between spreadsheet editing, LaTeX formatting, and publication-ready output.
+A **semi-automated research assistant** for literature review, coding, experiments, writing, and project memory, designed to keep **human decision-making at the center** instead of pretending to be a fully autonomous scientist.
+
+#### [pubfig](https://github.com/Galaxy-Dawn/pubfig)
+
+[PyPI](https://pypi.org/project/pubfig/) · [Repo](https://github.com/Galaxy-Dawn/pubfig) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/pubfig?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/pubfig?style=flat-square)
+
+A Python library for **publication-style scientific figures**, focused on the **last mile of paper figures**: paper-ready defaults, clean export, and panel-first Figma assembly for multi-panel composition.
+
+#### [pubtab](https://github.com/Galaxy-Dawn/pubtab)
+
+[PyPI](https://pypi.org/project/pubtab/) · [Repo](https://github.com/Galaxy-Dawn/pubtab) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/pubtab?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/pubtab?style=flat-square)
+
+A tool for **bidirectional Excel↔LaTeX table conversion** with stable roundtrip behavior, style preservation, and preview support, built for real paper workflows instead of one-shot export.
 
 ## Current interests
 
