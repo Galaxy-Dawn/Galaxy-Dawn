@@ -8,43 +8,76 @@ I'm a PhD student at Zhejiang University working on **neural decoding**, **scien
 - **Scientific tooling**: open-source tools for publication-ready figures, tables, and research workflows
 - **AI for research**: semi-automated systems for literature review, project memory, and scientific assistance
 
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Galaxy-Dawn">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Galaxy-Dawn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Gaorui Zhang's GitHub stats" />
+  </a>
+  <a href="https://github.com/Galaxy-Dawn">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-Dawn&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages used in public repositories" />
+  </a>
+</p>
+
 ## Selected Research and Tools
 
 These projects reflect my two main directions: **neural decoding research** and **tools for reproducible, publication-oriented scientific workflows**.
 
 ### Research
 
-#### [speech-decoding](https://github.com/Galaxy-Dawn/speech-decoding)
-
-[Paper](https://arxiv.org/abs/2603.12628) · [Repo](https://github.com/Galaxy-Dawn/speech-decoding) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/speech-decoding?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/speech-decoding?style=flat-square)
-
-Unified **brain-to-text decoding across both speech production and perception**, with one reproducible workflow spanning preprocessing, channel analysis, decoder training, LLM-based reconstruction, and post-hoc analysis.
-
-#### [NeuroSketch](https://github.com/Galaxy-Dawn/NeuroSketch)
-
-[Paper](https://arxiv.org/abs/2512.09524) · [Repo](https://github.com/Galaxy-Dawn/NeuroSketch) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/NeuroSketch?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/NeuroSketch?style=flat-square)
-
-A neural decoding framework built through **systematic architectural optimization**, backed by **5,000+ experiments** across modalities, signal types, and decoding tasks rather than isolated architecture tweaks.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Galaxy-Dawn/speech-decoding">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Dawn&repo=speech-decoding&theme=transparent&hide_border=true&description_lines_count=2" alt="speech-decoding repository card" />
+      </a>
+      <br />
+      <a href="https://arxiv.org/abs/2603.12628">Paper</a> · Unified <strong>brain-to-text decoding across speech production and perception</strong>, covering preprocessing, channel analysis, decoder training, LLM-based reconstruction, and post-hoc analysis in one reproducible workflow.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Galaxy-Dawn/NeuroSketch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Dawn&repo=NeuroSketch&theme=transparent&hide_border=true&description_lines_count=2" alt="NeuroSketch repository card" />
+      </a>
+      <br />
+      <a href="https://arxiv.org/abs/2512.09524">Paper</a> · A neural decoding framework built through <strong>systematic architectural optimization</strong>, backed by 5,000+ experiments across modalities, signal types, and decoding tasks.
+    </td>
+  </tr>
+</table>
 
 ### Tooling
 
-#### [claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)
-
-[Repo](https://github.com/Galaxy-Dawn/claude-scholar) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/claude-scholar?style=flat-square)
-
-A **semi-automated research assistant** for literature review, coding, experiments, writing, and project memory, designed to keep **human decision-making at the center** instead of pretending to be a fully autonomous scientist.
-
-#### [pubfig](https://github.com/Galaxy-Dawn/pubfig)
-
-[PyPI](https://pypi.org/project/pubfig/) · [Repo](https://github.com/Galaxy-Dawn/pubfig) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/pubfig?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/pubfig?style=flat-square)
-
-A Python library for **publication-style scientific figures**, focused on the **last mile of paper figures**: paper-ready defaults, clean export, and panel-first Figma assembly for multi-panel composition.
-
-#### [pubtab](https://github.com/Galaxy-Dawn/pubtab)
-
-[PyPI](https://pypi.org/project/pubtab/) · [Repo](https://github.com/Galaxy-Dawn/pubtab) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/pubtab?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/pubtab?style=flat-square)
-
-A tool for **bidirectional Excel↔LaTeX table conversion** with stable roundtrip behavior, style preservation, and preview support, built for real paper workflows instead of one-shot export.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Galaxy-Dawn/claude-scholar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Dawn&repo=claude-scholar&theme=transparent&hide_border=true&description_lines_count=2" alt="claude-scholar repository card" />
+      </a>
+      <br />
+      A <strong>semi-automated research assistant</strong> for literature review, coding, experiments, writing, and project memory, keeping human decision-making at the center instead of pretending to be a fully autonomous scientist.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Galaxy-Dawn/pubfig">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Dawn&repo=pubfig&theme=transparent&hide_border=true&description_lines_count=2" alt="pubfig repository card" />
+      </a>
+      <br />
+      <a href="https://pypi.org/project/pubfig/">PyPI</a> · A Python library for <strong>publication-style scientific figures</strong>, focused on paper-ready defaults, clean export, and panel-first Figma assembly.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Galaxy-Dawn/pubtab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-Dawn&repo=pubtab&theme=transparent&hide_border=true&description_lines_count=2" alt="pubtab repository card" />
+      </a>
+      <br />
+      <a href="https://pypi.org/project/pubtab/">PyPI</a> · A tool for <strong>bidirectional Excel↔LaTeX table conversion</strong> with stable roundtrip behavior, style preservation, and preview support.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Design principle</strong>
+      <br />
+      I prefer tools that support the full research workflow: from reproducible experiments to publication-ready artifacts, with explicit handoff points instead of one-shot automation.
+    </td>
+  </tr>
+</table>
 
 ## Current interests
 
