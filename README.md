@@ -14,6 +14,10 @@ These projects reflect my two main directions: **neural decoding research** and 
 
 ### Research
 
+#### Morpheus · [IEEE](https://ieeexplore.ieee.org/document/11462305) · [DOI](https://doi.org/10.1109/ICASSP55912.2026.11462305)
+
+A co-first-author ICASSP 2026 paper (Yixuan Yang*, **Gaorui Zhang***) on **end-to-end sleep monitoring from wearable accelerometer data**, combining rhythm priors, temporal-variable interaction modeling, and context-aware soft labels for sleep staging and event detection.
+
 #### [speech-decoding](https://github.com/Galaxy-Dawn/speech-decoding) · [Paper](https://arxiv.org/abs/2603.12628) · [Repo](https://github.com/Galaxy-Dawn/speech-decoding) · ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/speech-decoding?style=flat-square) ![Forks](https://img.shields.io/github/forks/Galaxy-Dawn/speech-decoding?style=flat-square)
 
 Unified **brain-to-text decoding across both speech production and perception**, with one reproducible workflow spanning preprocessing, channel analysis, decoder training, LLM-based reconstruction, and post-hoc analysis.
@@ -40,6 +44,7 @@ A tool for **bidirectional Excel↔LaTeX table conversion** with stable roundtri
 
 - Cross-subject neural decoding
 - Brain-to-text decoding
+- Wearable sleep monitoring and time-series modeling
 - Reliable agent systems for scientific research
 - Reproducible and maintainable research software
 
