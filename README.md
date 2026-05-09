@@ -40,7 +40,6 @@ A tool for **bidirectional Excel↔LaTeX table conversion** with stable roundtri
 
 - Cross-subject neural decoding
 - Brain-to-text decoding
-- Wearable sleep monitoring and time-series modeling
 - Reliable agent systems for scientific research
 - Reproducible and maintainable research software
 
